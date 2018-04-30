@@ -1,0 +1,6 @@
+framework module Pods_foodpedia {
+  umbrella header "Pods-foodpedia-umbrella.h"
+
+  export *
+  module * { export * }
+}
